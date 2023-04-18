@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\bin\Debug\LAB2-LTM.exe.config
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\bin\Debug\LAB2-LTM.exe
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\bin\Debug\LAB2-LTM.pdb
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2_LTM.Form1.resources
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2_LTM.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2-LTM.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2-LTM.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2-LTM.exe
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2-LTM.pdb
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2_LTM.Form2.resources
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2-LTM.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2_LTM.Form3.resources
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2_LTM.Form4.resources
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2_LTM.Form5.resources
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2_LTM.Form6.resources
+C:\Users\ASUS\source\repos\LAB2-LTM\LAB2-LTM\obj\Debug\LAB2_LTM.Form7.resources
